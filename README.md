@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis: Explain the purpose of this analysis.
 
 To submit to the School Board:
 - A high-level snapshot of the district's key metrics, presented in a table format
